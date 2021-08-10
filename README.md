@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi Everyone 👋
 
-### I'm Estevao Reis 😉
+### I'm Estevão Reis 😉
 I am a Software Engineering graduate student at the University of Brasília. I have been very interested in Front-End, but I find the Back-End area very interesting. I'm open to collaborating on projects and being able to learn and grow even more.
 
 
@@ -42,10 +42,7 @@ I am a Software Engineering graduate student at the University of Brasília. I h
   <img align="center" alt="Estevao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Estevao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Estevao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Estevao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  
-  <!-- <img align="right" alt="Estevao-yoda" src="https://giphy.com/embed/aDS8SjVtS3Mwo"> -->
- 
+  <img align="center" alt="Estevao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
 </div>
  
 ##
