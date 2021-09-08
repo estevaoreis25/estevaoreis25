@@ -19,13 +19,16 @@ Here are some ideas to get you started:
 I am a Software Engineering graduate student at the University of Brasília. I have been very interested in Front-End, but I find the Back-End area very interesting. I'm open to collaborating on projects and being able to learn and grow even more.
 
 
-##
+ ##
+
  <div align=">
   <a href="https://github.com/estevaoreis25">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoreis25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoreis25&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
-##
+
+ ##
+ 
 ### Languages and tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Estevao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
