@@ -27,7 +27,6 @@ Let's embark on a journey of innovation and growth together. Feel free to connec
 
  <div align=">
   <a href="https://github.com/estevaoreis25">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estevaoreis25&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estevaoreis25&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
 </div>
 
