@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 ## Hi Everyone 👋
 
 ### I'm Estevão Reis 😉
-I am a Software Engineering graduate student at the University of Brasília. I have been very interested in Front-End, but I find the Back-End area very interesting. I'm open to collaborating on projects and being able to learn and grow even more.
+Greetings! I am a proud graduate of Software Engineering from the esteemed Federal University of Brasília. Throughout my academic journey and professional endeavors, I've delved into a myriad of projects, predominantly in the realm of full stack development.
+
+Driven by an insatiable thirst for knowledge, I am perpetually seeking avenues to expand my skills and expertise. Collaboration is at the heart of my ethos, and I am eager to engage in projects where I can both contribute and glean insights from fellow enthusiasts.
+
+Let's embark on a journey of innovation and growth together. Feel free to connect with me for exciting opportunities and collaborations. Together, let's push the boundaries of software engineering and create impactful solutions that resonate with the world.
 
 
  ##
